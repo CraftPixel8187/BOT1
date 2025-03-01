@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "BOT",
+    "username": "GUARD",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "hive.aternos.me",
-    "port": 42166,
+    "ip": "craftpixel.aternos.me",
+    "port": 41782,
     "version": "1.12.2"
   },
 
